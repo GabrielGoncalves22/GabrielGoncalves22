@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+my+name+is+Gabriel+Gon%C3%A7alves;I'm+a+software+engineering+student;Be+Welcome)](https://git.io/typing-svg)
 
 ### 📊 Stats
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielGoncalves22&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=FFF">
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGoncalves22&layout=compact&theme=transparent&hide_border=true&title_color=FFF" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielGoncalves22&count_private=true&show_icons=true&theme=transparent&hide_border=true">
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGoncalves22&layout=compact&theme=transparent&hide_border=true" />
 
 ### 💻Skills
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40'>](https://docs.oracle.com/en/java/)
