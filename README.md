@@ -27,4 +27,6 @@
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/GabrielGoncalves22)
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg' alt='LinkedIN' height='40'>](https://www.linkedin.com/in/gabriel-gonçalves-411a96263/)
 
+### Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/GabrielGoncalves22/GabrielGoncalves22/blob/output/github-contribution-grid-snake.gif)
 </div>
